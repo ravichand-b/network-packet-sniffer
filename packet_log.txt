@@ -1,0 +1,50 @@
+[23:29:49] Packet 1: Ether / IP / TCP 192.168.1.18:58030 > 14.102.231.207:https S
+[23:29:49] Packet 2: Ether / fe80::b5b2:84f5:4e9f:7031 > ff02::16 (0) / IPv6ExtHdrHopByHop / ICMPv6MLReport2
+[23:29:49] Packet 3: Ether / IP / UDP / mDNS Qry b'{"nm":"Redmi Note 8 Pro","as":"[8193, 8194]","ip":"6"}._mi-connect._udp.local.'
+[23:29:49] Packet 4: Ether / IPv6 / UDP / mDNS Qry b'{"nm":"Redmi Note 8 Pro","as":"[8193, 8194]","ip":"6"}._mi-connect._udp.local.'
+[23:29:49] Packet 5: Ether / IP / TCP 14.102.231.207:https > 192.168.1.18:58030 RA
+[23:29:50] Packet 6: Ether / IP / TCP 34.36.73.246:https > 192.168.1.18:58007 FA
+[23:29:50] Packet 7: Ether / IP / TCP 192.168.1.18:58007 > 34.36.73.246:https A
+[23:29:50] Packet 8: Ether / IP / UDP / mDNS Ans [b'idHash=NTk3\n', b'dev=1', b'sec=2', b'apps=[8193, 8194]', b'name=Redmi Note 8 Pro', b'flags=Ag==\n', b'version=65540', b'commonData=0', b'appsData=AwIEgwIEgw==\n']
+[23:29:50] Packet 9: Ether / IPv6 / UDP / mDNS Ans [b'idHash=NTk3\n', b'dev=1', b'sec=2', b'apps=[8193, 8194]', b'name=Redmi Note 8 Pro', b'flags=Ag==\n', b'version=65540', b'commonData=0', b'appsData=AwIEgwIEgw==\n']
+[23:29:50] Packet 10: Ether / IP / TCP 192.168.1.18:58030 > 14.102.231.207:https S
+[23:29:50] Packet 11: Ether / IPv6 / ICMPv6ND_RA / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 44:95:3b:cc:80:80
+[23:29:50] Packet 12: Ether / IP / TCP 192.168.1.18:50430 > 20.42.73.24:https PA / Raw
+[23:29:50] Packet 13: Ether / IP / TCP 192.168.1.18:50430 > 20.42.73.24:https A / Raw
+[23:29:50] Packet 14: Ether / IP / TCP 192.168.1.18:50430 > 20.42.73.24:https PA / Raw
+[23:29:50] Packet 15: Ether / IP / TCP 14.102.231.207:https > 192.168.1.18:58030 RA
+[23:29:50] Packet 16: Ether / IP / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+[23:29:50] Packet 17: Ether / IP / TCP 192.168.1.18:51696 > 51.116.253.170:https FA
+[23:29:50] Packet 18: Ether / IP / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+[23:29:50] Packet 19: Ether / IP / TCP 192.168.1.18:58031 > 52.168.117.168:https S
+[23:29:50] Packet 20: Ether / IP / TCP 20.42.73.24:https > 192.168.1.18:50430 A
+[23:29:50] Packet 21: Ether / IP / TCP 20.42.73.24:https > 192.168.1.18:50430 PA / Raw
+[23:29:50] Packet 22: Ether / IP / TCP 192.168.1.18:50430 > 20.42.73.24:https A
+[23:29:50] Packet 23: Ether / IP / TCP 192.168.1.18:50430 > 20.42.73.24:https PA / Raw
+[23:29:50] Packet 24: Ether / IP / TCP 192.168.1.18:50430 > 20.42.73.24:https A / Raw
+[23:29:50] Packet 25: Ether / IP / TCP 192.168.1.18:50430 > 20.42.73.24:https A / Raw
+[23:29:50] Packet 26: Ether / IP / TCP 192.168.1.18:50430 > 20.42.73.24:https A / Raw
+[23:29:50] Packet 27: Ether / IP / TCP 192.168.1.18:50430 > 20.42.73.24:https PA / Raw
+[23:29:50] Packet 28: Ether / IP / TCP 51.116.253.170:https > 192.168.1.18:51696 RA
+[23:29:50] Packet 29: Ether / IP / TCP 52.168.117.168:https > 192.168.1.18:58031 SA
+[23:29:50] Packet 30: Ether / IP / TCP 192.168.1.18:58031 > 52.168.117.168:https A
+[23:29:50] Packet 31: Ether / IP / TCP 192.168.1.18:58031 > 52.168.117.168:https PA / Raw
+[23:29:50] Packet 32: Ether / IP / TCP 192.168.1.18:58030 > 14.102.231.207:https S
+[23:29:50] Packet 33: Ether / 192.168.1.6 > 224.0.0.2 2 / Raw
+[23:29:50] Packet 34: Ether / fe80::b5b2:84f5:4e9f:7031 > ff02::16 (0) / IPv6ExtHdrHopByHop / ICMPv6MLReport2
+[23:29:51] Packet 35: Ether / IP / TCP 20.42.73.24:https > 192.168.1.18:50430 A
+[23:29:51] Packet 36: Ether / IP / TCP 20.42.73.24:https > 192.168.1.18:50430 A
+[23:29:51] Packet 37: Ether / IP / TCP 20.42.73.24:https > 192.168.1.18:50430 PA / Raw
+[23:29:51] Packet 38: Ether / IP / TCP 14.102.231.207:https > 192.168.1.18:58030 RA
+[23:29:51] Packet 39: Ether / IP / TCP 192.168.1.18:50430 > 20.42.73.24:https A
+[23:29:51] Packet 40: Ether / 192.168.1.6 > 224.0.0.251 2 / Raw
+[23:29:51] Packet 41: Ether / IP / TCP 52.168.117.168:https > 192.168.1.18:58031 PA / Raw
+[23:29:51] Packet 42: Ether / IP / TCP 192.168.1.18:58031 > 52.168.117.168:https PA / Raw
+[23:29:51] Packet 43: Ether / IP / UDP / mDNS Qry b'{"nm":"Redmi Note 8 Pro","as":"[8193, 8194]","ip":"6"}._mi-connect._udp.local.'
+[23:29:51] Packet 44: Ether / IPv6 / UDP / mDNS Qry b'{"nm":"Redmi Note 8 Pro","as":"[8193, 8194]","ip":"6"}._mi-connect._udp.local.'
+[23:29:51] Packet 45: Ether / IP / TCP 52.168.117.168:https > 192.168.1.18:58031 A / Raw
+[23:29:51] Packet 46: Ether / IP / TCP 52.168.117.168:https > 192.168.1.18:58031 A / Raw
+[23:29:51] Packet 47: Ether / IP / TCP 52.168.117.168:https > 192.168.1.18:58031 A / Raw
+[23:29:51] Packet 48: Ether / IP / TCP 52.168.117.168:https > 192.168.1.18:58031 A / Raw
+[23:29:51] Packet 49: Ether / IP / TCP 52.168.117.168:https > 192.168.1.18:58031 PA / Raw
+[23:29:51] Packet 50: Ether / IP / TCP 192.168.1.18:58031 > 52.168.117.168:https A
